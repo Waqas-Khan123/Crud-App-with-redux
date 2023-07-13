@@ -1,0 +1,11 @@
+nav a{
+  text-decoration: none;
+      color: white;
+      font-size: larger;
+      text-transform: capitalize;
+      text-decoration: double;
+     border:1px solid white;
+      /* background-color: darkorange; */
+      padding: 3px 20px 35px 20px;
+      border-radius: 10px;
+  }
